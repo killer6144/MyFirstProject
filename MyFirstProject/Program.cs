@@ -8,6 +8,7 @@ namespace MyFirstProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("kkk");
+            Console.Write("zzz");
         }
     }
 }
